@@ -1,0 +1,11 @@
+# Day 1
+
+Today I am starting Clojure through the ground up. Since I am already experienced with Clojure, I am going through this material to revise basics concept, so I will be breezing through this and not spending much time on this material. I will be making notes of things that I feel are new to me. 
+
+## [Welcome](https://aphyr.com/posts/301-clojure-from-the-ground-up-welcome)
+
+### Metalanguages
+This word is interesting and even though I have come across it previously many times I hadn't gone and looked into it's true meaning. For someone who was fascinated by the ideas of macros I realised that as metalanguage is defined as a *language used to describe other language* I have been experiencing the metalanguage all the while without actually knowing that it was termed that way. 
+
+
+
