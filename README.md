@@ -10,6 +10,7 @@
 
 I am challenging myself to master Clojure in public.
 
-| Post | Date              | Topics                                                                                                                                  |
-| ---- | ------------------| --------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | August 13th, 2020 | [Clojure from the ground up Chapters 1, 2 & 3](posts/2020-08-10.md)
+| Post | Date               | Topics                                                                                                                                  |
+| ---- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------|
+| 1    | August 10th, 2020  | [Clojure from the ground up Chapter 1](posts/2020-08-10.md)                                                                             |
+| 2    | August 13th, 2020  | [Clojure from the ground up Chapters 2 & 3 ](posts/2020-08-10.md)                                                                       |
