@@ -1,7 +1,6 @@
 # Day 1 and Day 2
 
-I am starting Clojure through the ground up. Since I am already experienced with Clojure, I am going through this material to revise basic concept, so I will be breezing through this and not spending much time on this material. I will be making notes of things that I feel are new to me or which needs to be brushed upon. The practice code that I write is going to be in [playground](code/playground).
-
+I am starting Clojure through the ground up. Since I am already experienced with Clojure, I am going through this material to revise basic concept, so I will be breezing through this and not spending much time on this material. I will be making notes of things that I feel are new to me or which needs to be brushed upon. The practice code that I write is going to be in [playground](code/playground). 
 
 Also, I want to do the entire exercices in emacs. I already had it installed and config put in. I needed little hand holding, so I played around emacs for a little bit, changed theme and all :)
 I used [Absolute Beginner's Guide to Emacs](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/) for brushing up my emacs skill.
